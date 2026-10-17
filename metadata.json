@@ -1,0 +1,7 @@
+{
+  "name": "Homework AI - Handwritten Homework Validator & Grader",
+  "description": "AI-powered handwritten homework evaluator and grader that scans student answer sheets, compares them against answer keys, awards points, and generates detailed parent-teacher feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
